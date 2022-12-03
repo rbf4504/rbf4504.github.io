@@ -5,12 +5,13 @@ body {
   padding-bottom: 100px; 
   box-sizing: border-box;
 }
-.picInfo {
-	position: fixed;
-}
 
 footer {
   position: absolute;
   bottom: 0;
-  height: 100px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background: #F37A1D;
+ border-top: 3px solid #F37A1D;   
 }
