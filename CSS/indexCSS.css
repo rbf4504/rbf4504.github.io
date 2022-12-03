@@ -5,6 +5,9 @@ body {
   padding-bottom: 100px; 
   box-sizing: border-box;
 }
+.picInfo {
+	position: fixed;
+}
 
 footer {
   position: absolute;
