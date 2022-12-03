@@ -6,5 +6,6 @@ body {
   flex-direction: column;
 }
 .footer {
-  flex-shrink: 0;
+	position: fixed;
+	flex-shrink: 0;
 }
