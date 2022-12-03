@@ -6,6 +6,12 @@ body {
   box-sizing: border-box;
 }
 
+.reedpic {
+	display: block;
+	max-height: 25%;
+	max-width: 25%;
+}
+
 footer {
   position: absolute;
   bottom: 0;
@@ -14,10 +20,4 @@ footer {
   height: 60px;
   background: #F37A1D;
   border-top: 3px solid #F37A1D;   
-}
-
-.reedpic {
-	display: block;
-	max-height: 25%;
-	max-width: 25%;
 }
