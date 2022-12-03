@@ -13,5 +13,12 @@ footer {
   /* Set the fixed height of the footer here */
   height: 60px;
   background: #F37A1D;
- border-top: 3px solid #F37A1D;   
+  border-top: 3px solid #F37A1D;   
+}
+
+.reedpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
